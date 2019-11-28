@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/fydy/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-28 06:17:42"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-28 06:20:36"/>
     <img src="https://badgen.net/github/forks/fydy/ghiblog"/>
     <img src="https://badgen.net/github/stars/fydy/ghiblog"/>
     <img src="https://badgen.net/github/watchers/fydy/ghiblog"/>
@@ -20,11 +20,24 @@
 </p>
 is
 
+
+<p align='center'>
+<a href='https://github.com/fydy/isblog/issues/11#issuecomment-559358279'>
+<img src='https://user-images.githubusercontent.com/39726855/69781779-19238880-11ea-11ea-98dd-68cec19d1b02.jpg' width='50%' alt='
+业务交流'>
+</a>
+</p>
+<p align='center'>
+<span>
+业务交流</span>
+</p>
+
+    
 ## 置顶 :thumbsup: 
 - [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [封面](https://github.com/fydy/isblog/issues/11) <sup>0 :speech_balloon:</sup> 	 2019-11-28 06:16:20
+#### [封面](https://github.com/fydy/isblog/issues/11) <sup>1 :speech_balloon:</sup> 	 2019-11-28 06:16:20
 
 :label: : [:framed_picture:封面](https://github.com/fydy/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
@@ -89,7 +102,7 @@ github issue 自动生成readme
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/fydy/isblog/issues/11)  <sup>0 :speech_balloon:</sup>  	 
+- [封面](https://github.com/fydy/isblog/issues/11)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
