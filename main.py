@@ -75,10 +75,10 @@ def bundle_summary_section():
 
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id={0}.ghiblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id={0}.isblog"/>
     </a>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id={0}.ghiblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id={0}.isiblog"/>
     </a>
 </p>
 
